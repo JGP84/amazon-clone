@@ -20,7 +20,7 @@
     padding: 20px;
 }
 
-.login__container > h1 { /* first child */
+.login__container > h1 { 
     font-weight: 500;
     margin-bottom: 20px;
 }
